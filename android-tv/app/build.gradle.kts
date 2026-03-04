@@ -38,4 +38,5 @@ dependencies {
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.activity:activity-ktx:1.8.2")
     implementation("androidx.webkit:webkit:1.9.0")
+    implementation("org.webrtc:google-webrtc:1.0.30039@aar")
 }
