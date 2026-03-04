@@ -1,5 +1,6 @@
 pluginManagement {
     repositories {
+        maven { url = uri("https://raw.githubusercontent.com/alexgreench/google-webrtc/master") }
         google()
         mavenCentral()
         gradlePluginPortal()
